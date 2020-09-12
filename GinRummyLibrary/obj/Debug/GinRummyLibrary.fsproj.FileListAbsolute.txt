@@ -1,0 +1,6 @@
+F:\uni\Year 3 sem 1\402 source\assign 1\GinRummySkeleton\bin\GinRummyLibrary.dll
+F:\uni\Year 3 sem 1\402 source\assign 1\GinRummySkeleton\bin\GinRummyLibrary.pdb
+F:\uni\Year 3 sem 1\402 source\assign 1\GinRummySkeleton\bin\GinRummyLibrary.XML
+F:\uni\Year 3 sem 1\402 source\assign 1\GinRummySkeleton\GinRummyLibrary\obj\Debug\GinRummyLibrary.fsprojResolveAssemblyReference.cache
+F:\uni\Year 3 sem 1\402 source\assign 1\GinRummySkeleton\GinRummyLibrary\obj\Debug\GinRummyLibrary.dll
+F:\uni\Year 3 sem 1\402 source\assign 1\GinRummySkeleton\GinRummyLibrary\obj\Debug\GinRummyLibrary.pdb

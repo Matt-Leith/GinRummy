@@ -1,0 +1,14 @@
+F:\uni\Year 3 sem 1\402 source\assign 1\GinRummySkeleton\bin\GinRummy.exe.config
+F:\uni\Year 3 sem 1\402 source\assign 1\GinRummySkeleton\bin\GinRummy.exe
+F:\uni\Year 3 sem 1\402 source\assign 1\GinRummySkeleton\bin\GinRummy.pdb
+F:\uni\Year 3 sem 1\402 source\assign 1\GinRummySkeleton\GinRummyApp\obj\Debug\GinRummyApp.csprojResolveAssemblyReference.cache
+F:\uni\Year 3 sem 1\402 source\assign 1\GinRummySkeleton\GinRummyApp\obj\Debug\App.g.cs
+F:\uni\Year 3 sem 1\402 source\assign 1\GinRummySkeleton\GinRummyApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\uni\Year 3 sem 1\402 source\assign 1\GinRummySkeleton\GinRummyApp\obj\Debug\GinRummy_MarkupCompile.cache
+F:\uni\Year 3 sem 1\402 source\assign 1\GinRummySkeleton\GinRummyApp\obj\Debug\GinRummy_MarkupCompile.lref
+F:\uni\Year 3 sem 1\402 source\assign 1\GinRummySkeleton\GinRummyApp\obj\Debug\Views\View.baml
+F:\uni\Year 3 sem 1\402 source\assign 1\GinRummySkeleton\GinRummyApp\obj\Debug\GinRummy.g.resources
+F:\uni\Year 3 sem 1\402 source\assign 1\GinRummySkeleton\GinRummyApp\obj\Debug\QUT.Properties.Resources.resources
+F:\uni\Year 3 sem 1\402 source\assign 1\GinRummySkeleton\GinRummyApp\obj\Debug\GinRummyApp.csproj.GenerateResource.Cache
+F:\uni\Year 3 sem 1\402 source\assign 1\GinRummySkeleton\GinRummyApp\obj\Debug\GinRummy.exe
+F:\uni\Year 3 sem 1\402 source\assign 1\GinRummySkeleton\GinRummyApp\obj\Debug\GinRummy.pdb
